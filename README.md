@@ -7,6 +7,31 @@ This project analyzes e-commerce customer behavior, sales performance, product p
 The objective was to identify key business drivers, understand customer purchasing patterns, evaluate marketing performance, and provide actionable recommendations to improve customer retention and revenue growth.
 
 ---
+Project Visualizations и вставь изображения подряд.
+
+# Project Visualizations
+
+## Monthly Revenue Heatmap
+![Monthly Revenue](images/heatmap_monthly_rev.png)
+
+## Sales Overview
+
+![Executive Overview](images/executive_overview.png)
+
+## Product Performance
+
+![Product Category Analysis](images/product_performance.png)
+
+## Funnel Analysis
+
+![Funnel Analysis](images/funnel.png)
+
+
+## Cohort Retention Analysis
+
+![Cohort Retention Heatmap](images/cohorts.png)
+
+---
 
 ## Business Questions
 
@@ -177,30 +202,6 @@ Analysis period: 2020–2024
 * Customer retention presents the largest growth opportunity.
 
 ---
-Project Visualizations и вставь изображения подряд.
-
-# Project Visualizations
-
-## Monthly Revenue Heatmap
-![Monthly Revenue](images/heatmap_monthly_rev.png)
-
-## Sales Overview
-
-![Executive Overview](images/executive_overview.png)
-
-## Product Performance
-
-![Product Category Analysis](images/product_performance.png)
-
-## Funnel Analysis
-
-![Funnel Analysis](images/funnel.png)
-
-
-## Cohort Retention Analysis
-
-![Cohort Retention Heatmap](images/cohorts.png)
-
 
 
 ## Business Recommendations
