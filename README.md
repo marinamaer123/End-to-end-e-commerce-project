@@ -11,9 +11,6 @@ Project Visualizations
 
 # Project Visualizations
 
-## Monthly Revenue Heatmap
-![Monthly Revenue](images/heatmap_monthly_rev.png)
-
 ## Sales Overview
 
 ![Executive Overview](images/executive_overview.png)
@@ -31,6 +28,8 @@ Project Visualizations
 
 ![Cohort Retention Heatmap](images/cohorts.png)
 
+## Monthly Revenue Heatmap
+![Monthly Revenue](images/heatmap_monthly_rev.png)
 ---
 
 ## Business Questions
