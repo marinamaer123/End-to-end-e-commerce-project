@@ -7,7 +7,7 @@ This project analyzes e-commerce customer behavior, sales performance, product p
 The objective was to identify key business drivers, understand customer purchasing patterns, evaluate marketing performance, and provide actionable recommendations to improve customer retention and revenue growth.
 
 ---
-Project Visualizations и вставь изображения подряд.
+Project Visualizations 
 
 # Project Visualizations
 
